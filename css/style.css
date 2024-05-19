@@ -1,0 +1,6 @@
+body, .lvl-a, .lvl-b, .lvl-c, .lvl-d{
+    display: flex;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
